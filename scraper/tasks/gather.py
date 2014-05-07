@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 #  ========================================================================
 #  furiousdigger: scraper/tasks/gather.py
 #  Given RSS feeds gather article content and tokens using handytrowel.
@@ -20,8 +22,6 @@
 #  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #  ========================================================================
 
-
-#!/usr/bin/env python
 
 import collections
 import dateutil.parser
