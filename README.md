@@ -4,7 +4,7 @@ Recommend news articles based on user feedback
 
 ## Requirements
 
--   Requires a clone and full build of (https://github.com/asimihsan/handytrowel)[https://github.com/asimihsan/handytrowel]
+-   Requires a clone and full build of [handytrowel](https://github.com/asimihsan/handytrowel)
     at the same directory level as the clone of furiousdigger. e.g.
     if you have `/opt/furiousdigger/` you'd also need
     `/opt/handytrowel`.
