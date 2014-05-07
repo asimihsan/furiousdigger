@@ -46,6 +46,7 @@ docs/_build/
 # Development database
 *.sqlite3
 *.sqlite
+*.sqlite-journal
 
 # Secret keys and passwords
 furiousdigger/settings_secret.py
